@@ -29,7 +29,7 @@ The instance you will create in this course is a cloud resource known as **platf
 
 The main advantage of Cloud Computing is that you don't have to commit too much money and time in managing the IT resources needed to try out a new idea or experiment. Cloud computing enables you to create the resources you need and delete them once you are done to stop incurring costs. Other advantages include accessability and scalability.
 
-You will use the **AWS Console** to open and configure your AWS account and to create and manage your instance. The AWS Console is a browser-based graphical user interface (GUI) that allows you to point and click options.
+You will use the **AWS Console** to open and configure your AWS account and to create and manage your instance. The AWS Console is a browser-based graphical user interface (GUI) that allows you to point and click options. There is no cost in using the AWS Console to create AWS resources. However, you may incur costs after your resources have been created if, for instance, they require storage beyond some limits as outlined next.  
 
 The largest cloud providers at the time of writing in terms of market share are Amazon AWS, Microsoft Azure and Google Cloud Platform. When you open an account with these providers, your account will include one-year free tier use of most of their services **within some limits**. This allows you to evaluate their services with no or little cost before committing to a particular provider. Please beware of those limits so you don't incur unwanted costs. Note that there are many other cloud providers and some may offer better prices and also a free trial period. Once you finish this course, you will be able to better choose from the offerings available.
 
