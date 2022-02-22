@@ -2,7 +2,7 @@
 ---
 <h3 align="center">a Cloud-SPAN course</h3>
 
-[Cloud-SPAN](https://cloud-span.york.ac.uk) is a project run by the Department of Biology at the University of York with the aim to training researchers in the experimental design and and analysis of 'omics data using cloud-based High Performance Computing (HPC) resources.
+[Cloud-SPAN](https://cloud-span.york.ac.uk) is a project run by the Department of Biology at the University of York with the aim to training researchers in the experimental design and analysis of 'omics data using cloud-based High Performance Computing (HPC) resources.
 
 This course teaches how to create and manage your own Cloud-SPAN Amazon Web Services (AWS) **instance**, which is a Linux virtual machine configured with 'omics data and software analysis tools. The instance you will create is the same instance that is used in the Cloud-SPAN courses [Prenomics](https://cloud-span.github.io/prenomics00-intro/) and [Genomics](https://cloud-span.github.io/genomics01-intro). As such it is an excellent vehicle for those who want to self-study those courses or have taken them and now want to practice further or with other materials in their own time.
 
@@ -25,11 +25,11 @@ The course is designed for 2-3 hours of self-study.
 
 "*Cloud computing is the on-demand availability \[through the Internet\] of computer system resources \[such as\] data storage and computing power ... \[that\] relies on a "pay-as-you-go" model ..."\[[Wikipedia](https://en.wikipedia.org/wiki/Cloud_computing)\].* That means we can **rent** as many computing resources as we need, whenever we need them, and pay only for the time we use them. To start using Cloud resources all you need is access to the Internet, an email address and a credit card. 
 
-The instance you will create in this course is a cloud resource known as **platform as a service**, or PaaS. The term **platform** refers to a resource composed of both (**virtualised: sofware-emulated**) hardware and a software environment such as Windows, Linux or MacOS. It is a complete solution ready to use. There is also **infrastructure as a service** and **software as a service**, or IaaS and SaaS respectively. IaaS refers to physical or virtualised hardware resources on which you can deploy and configure some specific software. SaaS refers to any software-based service such as Gmail, Google Docs, Databases, Microsoft Office, and there are also Machine Learning services, among many others. 
+The instance you will create in this course is a cloud resource known as **platform as a service**, or PaaS. The term **platform** refers to a resource composed of both (**virtualised: sofware-emulated**) hardware and a software environment such as Windows, Linux or MacOS. 
 
-The main advantage of Cloud Computing is that you don't have to commit too much money and time in managing the IT resources you try out a new idea or experiment. Cloud computing enables you to create the resources you need and delete them once you are done to stop incurring costs. Other advantages include accessability and scalability.
+The main advantage of Cloud Computing is that you don't have to commit too much money and time in managing the IT resources needed to try out a new idea or experiment. Cloud computing enables you to create the resources you need and delete them once you are done to stop incurring costs. Other advantages include accessability and scalability.
 
-You will use the **AWS Console** to open and configure your AWS account and to create and manage your instance. The AWS Console is a browser-based graphical user interface (GUI) that allows you you to point and click options.
+You will use the **AWS Console** to open and configure your AWS account and to create and manage your instance. The AWS Console is a browser-based graphical user interface (GUI) that allows you to point and click options.
 
 The largest cloud providers at the time of writing in terms of market share are Amazon AWS, Microsoft Azure and Google Cloud Platform. When you open an account with these providers, your account will include one-year free tier use of most of their services **within some limits**. This allows you to evaluate their services with no or little cost before committing to a particular provider. Please beware of those limits so you don't incur unwanted costs. Note that there are many other cloud providers and some may offer better prices and also a free trial period. Once you finish this course, you will be able to better choose from the offerings available.
 
