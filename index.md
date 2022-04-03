@@ -4,7 +4,7 @@
 
 [Cloud-SPAN](https://cloud-span.york.ac.uk) is a project run by the Department of Biology at the University of York with the aim to training researchers in the experimental design and analysis of 'omics data using cloud-based High Performance Computing (HPC) resources.
 
-This course teaches how to create and manage your own Cloud-SPAN Amazon Web Services (AWS) **instance**, which is a Linux virtual machine configured with 'omics data and software analysis tools. The instance you will create is the same instance that is used in the Cloud-SPAN courses [Prenomics](https://cloud-span.github.io/prenomics00-intro/) and [Genomics](https://cloud-span.github.io/genomics01-intro). As such it is an excellent vehicle for those who want to self-study those courses or have taken them and now want to practice further or with other materials in their own time.
+This course teaches how to create and manage your own Cloud-SPAN Amazon Web Services (AWS) **instance**, which is a Linux virtual machine configured with 'omics data and software analysis tools. The instance you will create is the same instance that is used in the Cloud-SPAN courses [Prenomics](https://cloud-span.github.io/prenomics00-intro/) and [Genomics](https://cloud-span.github.io/00genomics). As such it is an excellent vehicle for those who want to self-study those courses or have taken them and now want to practice further or with other materials in their own time.
 
 You will learn (1) how to open and configure your AWS account, which will enable you to use any AWS service; (2) how to create and manage (start, stop and terminate) your instance; and (3) the cost of using your instance. 
 
