@@ -20,7 +20,7 @@ The course is designed for 2-3 hours of self-study.
 >
 > Tablets and mobile phones are not suitable for taking the course, as the screenshots that are shown through the course were taken from desktop screens. 
 >
-> Please note that this course does **not** cover **using your instance**: tasks such as managing the data in your instance or running genomics analyses are covered in the [Prenomics](https://cloud-span.github.io/prenomics00-intro/) and [Genomics](https://cloud-span.github.io/genomics01-intro) courses. The relevant sections of these courses are below under the heading **Where to go from here.** 
+> Please note that this course does **not** cover **using your instance**: tasks such as managing the data in your instance or running genomics analyses are covered in the [Prenomics](https://cloud-span.github.io/prenomics00-intro/) and [Genomics](https://cloud-span.github.io/genomics01-intro).  
 {: .prereq}
 
 ## Background
