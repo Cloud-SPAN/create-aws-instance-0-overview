@@ -40,7 +40,7 @@ The largest cloud providers at the time of writing in terms of market share are 
 | Lesson                     | Overview |
 | -------------------------- | ---------|
 | [Open your AWS account](https://cloud-span.github.io/create-aws-instance-1-open-account/) | Learn how to open and configure your AWS account, which enables you to use AWS services.|
-| [Create and manage your AWS instance](https://cloud-span.github.io/create-aws-instance-2-manage-instance/)| Learn how to create, start, stop, and terminate your instance using the AWS Console, and how to login to your instance. See section below `Where to go from here` for related resources. |
+| [Create and manage your AWS instance](https://cloud-span.github.io/create-aws-instance-2-manage-instance/)| Learn how to create, start, stop, and terminate your instance using the AWS Console, and how to login to your instance. |
 | [AWS Costs Explained](https://cloud-span.github.io/create-aws-instance-3-costs-explained/) | Learn about the costs of using your Cloud-SPAN AWS instance, the AWS Free Tier and Research Credits available.|
 
 ## Help and Support
