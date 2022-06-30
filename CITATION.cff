@@ -1,0 +1,14 @@
+
+cff-version: 1.1.0
+message: "If you reuse this training material, please cite it as below."
+authors:
+- family-names: "Buenabad-Chavez"
+  given-names: "Jorge"
+- family-names: "Rand"
+  given-names: "Emma"
+  orcid: "https://orcid.org/0000-0002-1358-8275"
+title: "Cloud-SPAN Create Your Own AWS Instance Course"
+version: 1.0.0
+doi: tba
+date-released: 2022-06-30
+url: "https://cloud-span.github.io/create-aws-instance-0-overview/"
