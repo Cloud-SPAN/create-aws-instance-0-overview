@@ -13,7 +13,7 @@ bioschemas:
   author: ["Jorge Buenabad-Chavez"]
   contributor: ["James Chong", "Emma Barnes", "Emma Rand", "University of York", "Software Sustainability Institute"]
   educationalLevel: "Beginner"
-  identifier: ""
+  identifier: "https://doi.org/10.5281/zenodo.6782970"
   name: "Cloud-SPAN Create Your Own AWS Instance Course"
   url: "https://cloud-span.github.io/create-aws-instance-0-overview/"
   inLanguage: "en"
