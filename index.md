@@ -1,4 +1,26 @@
 ---
+bioschemas:
+  "@context": "https://schema.org"
+  "@type": "LearningResource"
+  "@id": "https://github.com/Cloud-SPAN/create-aws-instance-0-overview"
+  "http://purl.org/dc/terms/conformsTo":
+  - "@type": CreativeWork
+    "@id": "https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE"
+  about:
+  - "@id": "http://edamontology.org/topic_3316"
+  - "@id": "http://edamontology.org/data_3670"
+  abstract: "This course teaches how to create and manage your own Cloud-SPAN Amazon Web Services (AWS) instance, which is a Linux virtual machine configured with ‘omics data and software analysis tools. The instance you will create is the same instance that is used in the Cloud-SPAN courses Prenomics and Genomics.."
+  author: ["Jorge Buenabad-Chavez"]
+  contributor: ["James Chong", "Emma Barnes", "Emma Rand", "University of York", "Software Sustainability Institute"]
+  educationalLevel: "Beginner"
+  identifier: "https://doi.org/10.5281/zenodo.6782970"
+  name: "Cloud-SPAN Create Your Own AWS Instance Course"
+  url: "https://cloud-span.github.io/create-aws-instance-0-overview/"
+  inLanguage: "en"
+  keywords: "cloud computing, AWS, genomics, HPC, data analysis, Linux"
+  license: CC-BY 4.0
+  timeRequired: "PT3H"
+  mentions: ["Cloud-SPAN Genomics course", "Data Carpentries Genomics workshop", "Amazon Web Services"]
 ---
 <h3 align="center">a Cloud-SPAN course</h3>
 
